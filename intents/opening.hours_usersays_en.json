@@ -1,0 +1,95 @@
+[
+  {
+    "id": "56ed6912-fe53-4619-a150-6b3d24303900",
+    "data": [
+      {
+        "text": "opening time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "95116814-2dfa-417b-8203-4dda4c9f2ae8",
+    "data": [
+      {
+        "text": "store ",
+        "userDefined": false
+      },
+      {
+        "text": "hours",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cbeff9b4-f7bd-4070-b7b1-ff25cec89b96",
+    "data": [
+      {
+        "text": "When do you close?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bfd76d6d-0fd3-495e-8d89-d432b19a02f8",
+    "data": [
+      {
+        "text": "Are you open ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f2ba251b-803b-44f8-9169-3cf8a115cd12",
+    "data": [
+      {
+        "text": "Are you open right now?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "23689bb7-cbda-4713-be79-37d5a377d19e",
+    "data": [
+      {
+        "text": "What time do you open?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
